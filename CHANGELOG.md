@@ -1,4 +1,8 @@
 
+## 3.4.1
+
+* Feature: Allowing stdlib 5.x (https://github.com/crayfishx/puppet-firewalld/pull/192)
+
 ## 3.4.0
 
 * Feature: Added `$log_denied` parameter for configuring the logging of dropped packets using the `--set-log-denied` feature (firewalld 0.4.3.2-8) (https://github.com/crayfishx/puppet-firewalld/issues/153)
